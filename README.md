@@ -1,4 +1,4 @@
-# Lab_problem_pack
+# Lab Problem Pack
 A collection of problems that were solved using the C programming language.
 
 The problems are listed down below:
